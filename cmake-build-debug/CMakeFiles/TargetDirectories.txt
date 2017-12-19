@@ -1,0 +1,5 @@
+/home/exbot/slambook-master/ch12/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/exbot/slambook-master/ch12/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/exbot/slambook-master/ch12/cmake-build-debug/CMakeFiles/gen_vocab.dir
+/home/exbot/slambook-master/ch12/cmake-build-debug/CMakeFiles/loop_closure.dir
+/home/exbot/slambook-master/ch12/cmake-build-debug/CMakeFiles/feature_training.dir
