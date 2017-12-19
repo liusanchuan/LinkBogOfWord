@@ -23,7 +23,7 @@ int main( int argc, char** argv )
         cerr<<"Vocabulary does not exist."<<endl;
         return 1;
     }
-    cout<<"reading images... "<<endl;
+    cout<<"reading image  s... "<<endl;
     vector<Mat> images; 
     for ( int i=0; i<10; i++ )
     {
